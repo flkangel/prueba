@@ -1,2 +1,5 @@
 Probando modificar el documento desde GitHub
+B
+B
+C
 Ahora agrego mas lineas al documento desde github
